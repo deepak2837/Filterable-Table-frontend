@@ -7,7 +7,6 @@
 
 Filterable Table is a web application that combines a React frontend hosted on Netlify with a backend hosted on Render. It's designed to provide a user-friendly interface for filtering and displaying data using a Material-UI table.
 
-![Screenshot](link-to-screenshot.png)
 
 ## Features
 
@@ -21,8 +20,8 @@ Filterable Table is a web application that combines a React frontend hosted on N
 
 You can access the live application on the following links:
 
-- [Frontend (Netlify)](https://filterable-table.netlify.app/)
-- [Backend (Render)](https://filterable-table-backend.onrender.com/)
+- [Frontend (Netlify)](https://filterable-table.netlify.app/)<h1>https://filterable-table.netlify.app</h1>
+- [Backend (Render)](https://filterable-table-backend.onrender.com/)<h1>https://filterable-table-backend.onrender.com</h1>
 
 ## Usage
 
@@ -31,4 +30,15 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-username/Filterable-Table-frontend.git
+
+
+Install the required dependencies:
+
+```
+cd frontend
+npm install```
+
+```
+cd backend
+npm install```
