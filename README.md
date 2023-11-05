@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Filterable Table - React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify](https://img.shields.io/badge/Frontend-Hosted%20on%20Netlify-%23000000?style=for-the-badge&logo=netlify)](https://filterable-table.netlify.app/)
+[![Render](https://img.shields.io/badge/Backend-Hosted%20on%20Render-%23000000?style=for-the-badge&logo=render)](https://filterable-table-backend.onrender.com/)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Filterable Table is a web application that combines a React frontend hosted on Netlify with a backend hosted on Render. It's designed to provide a user-friendly interface for filtering and displaying data using a Material-UI table.
 
-### `npm start`
+![Screenshot](link-to-screenshot.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Interactive Material-UI table for data presentation.
+- Custom filtering functionality for efficient data retrieval.
+- Frontend hosted on Netlify for fast and responsive user experience.
+- Backend hosted on Render for data processing and serving filtered data.
+- Easy-to-use interface for managing and filtering large datasets.
 
-### `npm test`
+## Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can access the live application on the following links:
 
-### `npm run build`
+- [Frontend (Netlify)](https://filterable-table.netlify.app/)
+- [Backend (Render)](https://filterable-table-backend.onrender.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run the project locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```shell
+   git clone https://github.com/your-username/your-repo.git
