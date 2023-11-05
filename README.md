@@ -37,8 +37,7 @@ Install the required dependencies:
 
 ```
 cd frontend
-npm install```
+npm install
 
-```
 cd backend
 npm install```
