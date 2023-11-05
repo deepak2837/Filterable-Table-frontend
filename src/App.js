@@ -255,7 +255,7 @@ console.log(rows)
     console.log(fifthtable)
     try {
       const response = await axios.get(
-        `https://filterable-table-backend.onrender.com//api/users?criteria=${filter}`
+        `https://filterable-table-backend.onrender.com/api/users?criteria=${filter}`
       );
       
       setData(response.data);
